@@ -10,7 +10,9 @@
   "author": "Alex",
   "license": "ISC",
   "dependencies": {
-    "node": "^20.5.0"
+    "node": "^20.5.0",
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
